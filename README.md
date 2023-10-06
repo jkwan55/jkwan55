@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... backend development and artifical intelligence.
 - 🌱 I’m currently learning ... restful api and web development with mysql, react, and nodejs.
 - 💞️ I’m looking to collaborate on ... new technologies and to gain experience.
-- 📫 How to reach me ... JimmyGKwan@yahoo.com
+- 📫 How to reach me ... JimmyGeeKwan@gmail.com
 
 <!---
 jkwan55/jkwan55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

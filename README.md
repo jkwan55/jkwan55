@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkwan55
-- 👀 I’m interested in ... backend development and artifical intelligence.
-- 🌱 I’m currently learning ... restful api and web development with mysql, react, and nodejs.
+- 👀 I’m interested in ... backend development and databases.
+- 🌱 I’m currently learning ... restful api and web development.
 - 💞️ I’m looking to collaborate on ... new technologies and to gain experience.
 - 📫 How to reach me ... JimmyGeeKwan@gmail.com
 
